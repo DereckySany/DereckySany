@@ -1,10 +1,10 @@
-### Olá Visitantes, DS é meu perfil 👋
+## Olá Visitantes, DS é meu perfil 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DereckySany&card_width=450um&theme=github_dark&show_icons=true)](https://github.com/DereckySany) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DereckySany&theme=github_dark&show_icons=true&layout=compact&card_width=450um&langs_count=8)](https://github.com/DereckySany)
 
-# MIDIAS
+### Projetos
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-# OS
+### - Sistemas
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/intl/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/software-download/windows10)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download/desktop)
