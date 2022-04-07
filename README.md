@@ -1,6 +1,6 @@
 ## Olá Visitantes, DS é meu perfil 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DereckySany&card_width=450um&theme=github_dark&show_icons=true)](https://github.com/DereckySany) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DereckySany&theme=github_dark&show_icons=true&layout=compact&card_width=450um&langs_count=8)](https://github.com/DereckySany)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DereckySany&card_width=900um&theme=github_dark&show_icons=true)](https://github.com/DereckySany) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DereckySany&theme=github_dark&show_icons=true&layout=compact&card_width=900um&langs_count=8)](https://github.com/DereckySany)
 
 ### Projetos
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
